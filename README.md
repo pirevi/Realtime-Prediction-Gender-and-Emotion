@@ -11,3 +11,6 @@ As we need to create two models, One for gender and the other for emotion. We re
 #### [FOR MORE INFORMATION, GO THROUGH THE ATTACHED PDF]
 
 #### NOTE: The model files (which contain the architecture and weights) is not uploaded here. It is due to upload file size limitaion on github(25MB). Only the code files are present, which when trained on the dataset can reproduce the model files.
+
+<img src="/imgs/expressions.png" alt="Emotion Detection"/>
+<img src="/imgs/male_female.png" alt="Gender Detection"/>
